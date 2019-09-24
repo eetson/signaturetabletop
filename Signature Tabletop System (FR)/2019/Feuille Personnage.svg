@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 279.4 215.9"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Feuille Personnage.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5452"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5454" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1629902"
+     inkscape:cx="533.15911"
+     inkscape:cy="408"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g7154"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1186"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-81.1)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3717"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3719"><rect
+           id="rect3721"
+           width="438.92834"
+           height="204.21184"
+           x="768.54828"
+           y="27.115265" /></flowRegion><flowPara
+         id="flowPara3723" /></flowRoot>    <g
+       transform="matrix(0.28222223,0,0,0.28222223,10.569895,-0.21239529)"
+       id="g5822">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="445.78415"
+         y="785.29443"
+         id="text4422"><tspan
+           sodipodi:role="line"
+           id="tspan4424"
+           x="445.78415"
+           y="785.29443"
+           style="font-size:35px;line-height:1.25"> </tspan></text>
+      <g
+         id="g5234"
+         transform="translate(-588.79758,9.6881295)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1296.8055"
+           y="339.27771"
+           id="text4194-0-4"><tspan
+             style="font-size:30px;line-height:1.25"
+             id="tspan4265-5-7"
+             sodipodi:role="line"
+             x="1296.8055"
+             y="339.27771">SIGNATURE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1089.17"
+           y="366.33896"
+           id="text4158-0-2"><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="366.33896"
+             id="tspan4180-4-5">Personnage ___________________________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="388.21396"
+             id="tspan5383">Joué par __________________________</tspan><tspan
+             id="tspan5119"
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="410.08896"> </tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="431.96396"
+             id="tspan6423">Apparence</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="453.83896"
+             id="tspan6778">_____________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="475.71396"
+             id="tspan6780">_____________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="497.58896"
+             id="tspan6782">_____________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="519.46399"
+             id="tspan6784">_____________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="541.33899"
+             id="tspan6786"> </tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="563.21399"
+             id="tspan6788">Origine</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="585.08899"
+             id="tspan6804">_____________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="606.96399"
+             id="tspan6822">_____________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="628.83899"
+             id="tspan6810">_____________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="650.71399"
+             id="tspan6818">_____________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="672.58899"
+             id="tspan6812"> </tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="694.46399"
+             id="tspan6443">Possessions </tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="716.33899"
+             id="tspan7215">_______________  _______________  _______________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="738.21399"
+             id="tspan5832">_______________  _______________  _______________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="760.08899"
+             id="tspan5826">_______________  _______________  _______________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="781.96399"
+             id="tspan5828">_______________  _______________  _______________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="803.83899"
+             id="tspan5830">_______________  _______________  _______________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="825.71399"
+             id="tspan7261"> </tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="847.58899"
+             id="tspan7217">Notes</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="869.46399"
+             id="tspan7207">_______________________________________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="891.33899"
+             id="tspan4013">_______________________________________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="913.21399"
+             id="tspan4015">_______________________________________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="935.08899"
+             id="tspan4017">_______________________________________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="956.96399"
+             id="tspan4019">_______________________________________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="978.83899"
+             id="tspan4021">_______________________________________________</tspan><tspan
+             style="font-size:17.5px;line-height:1.25;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1089.17"
+             y="1000.714"
+             id="tspan6489">_______________________________________________</tspan></text>
+        <g
+           id="g6135-6"
+           transform="translate(1280.0269,-144.04674)">
+          <rect
+             style="opacity:1;fill:none;stroke:#000000;stroke-width:1.28326213;stroke-miterlimit:4;stroke-dasharray:1.28326217, 5.13304867;stroke-dashoffset:0;stroke-opacity:1"
+             y="572.7196"
+             x="10.586853"
+             height="260.84851"
+             width="214.1207"
+             id="rect5316-7" />
+          <rect
+             y="557.50732"
+             x="-4.7888336"
+             height="27.009315"
+             width="81.02803"
+             id="rect6129-1"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.88049263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text5115-2-6-9"
+             y="578.46802"
+             x="5.6970062"
+             style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+             xml:space="preserve"><tspan
+               id="tspan5117-6-8-4"
+               style="font-style:normal;font-size:17.5px;text-align:start;text-anchor:start;stroke-width:0.93749994"
+               y="578.46802"
+               x="36.821884"
+               sodipodi:role="line">Portrait</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.77165349;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 457.5476,318.3017 v 704.6261"
+         id="path4226"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+         x="65.024246"
+         y="337.36713"
+         id="text5081"><tspan
+           sodipodi:role="line"
+           x="65.024246"
+           y="370.54584"
+           style="font-size:25px;line-height:35.43307114px;stroke-width:0.93749994"
+           id="tspan5109" /></text>
+      <g
+         id="g6659"
+         transform="translate(-9.3749991,5.9688302)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+           x="328.60486"
+           y="725.41693"
+           id="text6699"><tspan
+             sodipodi:role="line"
+             id="tspan6697"
+             x="328.60486"
+             y="735.37054"
+             style="stroke-width:0.93749994" /><tspan
+             sodipodi:role="line"
+             x="328.60486"
+             y="749.43304"
+             style="stroke-width:0.93749994"
+             id="tspan6701" /></text>
+      </g>
+      <g
+         id="g7154">
+        <g
+           id="g4224"
+           transform="translate(-46.874997,99.128838)">
+          <g
+             id="g6545">
+            <g
+               id="g6553">
+              <g
+                 id="g7189">
+                <g
+                   id="g7310">
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.65809262px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     x="254.01169"
+                     y="730.26984"
+                     id="text4233"><tspan
+                       id="tspan6717"
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="730.26984"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"><tspan
+   id="tspan7195"
+   style="font-weight:bold;font-size:11.25px">Matériel</tspan> : 6 dés ou pièces de monnaie, 1 crayon et cette feuille.</tspan><tspan
+                       id="tspan6971"
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="744.33234"
+                       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px">Commencez avec 1 Signature, 3 Mots-clés et 1 Chance.</tspan><tspan
+                       id="tspan6721"
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="758.39484"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px">- - - - - -</tspan><tspan
+                       id="tspan6725"
+                       sodipodi:role="line"
+                       x="255.80246"
+                       y="772.45734"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"><tspan
+   id="tspan6727"
+   style="font-weight:bold;font-size:11.25px;text-align:center;text-anchor:middle">Jet :</tspan> lancer 3 dés + 1 dé par Bénéfice et Aide pertinents. </tspan><tspan
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="786.51984"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"
+                       id="tspan6591">Maximum 6 dés. Chaque résultat pair (pile) est un Succès.</tspan><tspan
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="800.58234"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"
+                       id="tspan5421">+1 Succès pour la Signature lorsqu'elle est pertinente</tspan><tspan
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="814.64484"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"
+                       id="tspan5427">+1 Succès par mot-clé pertinent effacé</tspan><tspan
+                       id="tspan6675"
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="828.70734"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px">- - - - - -</tspan><tspan
+                       id="tspan6669"
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="842.76984"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"><tspan
+   id="tspan6671"
+   style="font-weight:bold;font-size:11.25px;text-align:center;text-anchor:middle">Obstacles : </tspan>surmontés par 3 Succès ou plus.</tspan><tspan
+                       id="tspan6703"
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="850.12579"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px" /><tspan
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="856.83234"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"
+                       id="tspan6540"><tspan
+   style="font-weight:bold;font-size:11.25px;text-align:center;text-anchor:middle"
+   id="tspan6555">Défi : </tspan>3 Obstacles à surmonter. Donne 2 Chances à chaque joueur.</tspan><tspan
+                       sodipodi:role="line"
+                       x="255.80246"
+                       y="870.89484"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"
+                       id="tspan5405"><tspan
+   id="tspan6681"
+   style="font-weight:bold;font-size:11.25px;text-align:center;text-anchor:middle">Aide : </tspan>passer son tour. Le joueur aidé ajoute un dé à son jet. </tspan><tspan
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="884.95734"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"
+                       id="tspan5411">Les aidants s'exposent aux mêmes risques que l'aidé.</tspan><tspan
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="892.31329"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"
+                       id="tspan5842" /><tspan
+                       id="tspan6949"
+                       sodipodi:role="line"
+                       x="255.80246"
+                       y="899.01984"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"><tspan
+   style="font-weight:bold;font-size:11.25px"
+   id="tspan5769">Effacer un Bénéfice </tspan><tspan
+   style="font-weight:bold"
+   id="tspan5857">:</tspan> si pertinent, permet de surmonter un </tspan><tspan
+                       sodipodi:role="line"
+                       x="254.01169"
+                       y="913.08234"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.65809262px"
+                       id="tspan5415">obstacle de façon dramatique. Donne 1 Chance.</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g6329"
+           transform="translate(0.22078405,-240.72528)">
+          <text
+             id="text6266"
+             y="600.04388"
+             x="11.938554"
+             style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+             xml:space="preserve"><tspan
+               style="font-style:italic;font-size:8.75px;stroke-width:0.93749994"
+               y="600.04388"
+               x="11.938554"
+               sodipodi:role="line"
+               id="tspan1003">- Relancer les échecs.</tspan><tspan
+               style="font-style:italic;font-size:8.75px;stroke-width:0.93749994"
+               y="610.98138"
+               x="11.938554"
+               sodipodi:role="line"
+               id="tspan981">- Obtenir un mot-clé.</tspan><tspan
+               style="font-style:italic;font-size:8.75px;stroke-width:0.93749994"
+               y="621.91888"
+               x="11.938554"
+               sodipodi:role="line"
+               id="tspan5801">- Refuser une Intrusion</tspan><tspan
+               style="font-style:italic;font-size:8.75px;stroke-width:0.93749994"
+               y="632.85638"
+               x="11.938554"
+               sodipodi:role="line"
+               id="tspan991"><tspan
+   style="font-weight:bold;font-size:8.75px"
+   id="tspan1001">1 Chance +1 par Bénéfice</tspan> : </tspan><tspan
+               style="font-style:italic;font-size:8.75px;stroke-width:0.93749994"
+               y="643.79388"
+               x="11.938554"
+               sodipodi:role="line"
+               id="tspan5811">- Changer un mot-clé en Bénéfice.</tspan></text>
+          <g
+             transform="translate(2.2827099,7.4999996)"
+             id="g6135">
+            <rect
+               id="rect5316"
+               width="410.88382"
+               height="71.481865"
+               x="3.0743022"
+               y="572.51404"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:1.25, 5.00000000999999994;stroke-dashoffset:0;stroke-opacity:1" />
+            <rect
+               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78751463;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect6129"
+               width="81.822426"
+               height="21.396482"
+               x="-4.7888336"
+               y="559.92566" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+               x="34.107101"
+               y="578.46802"
+               id="text5115-2-6"><tspan
+                 sodipodi:role="line"
+                 x="34.107101"
+                 y="578.46802"
+                 style="font-style:normal;font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.93749994"
+                 id="tspan5117-6-8">Chance</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g6329-6"
+           transform="translate(0.29390191,-71.701174)">
+          <text
+             id="text6266-8"
+             y="598.16888"
+             x="210.65338"
+             style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+             xml:space="preserve"><tspan
+               style="font-style:italic;font-size:8.75px;text-align:center;text-anchor:middle;stroke-width:0.93749994"
+               y="598.16888"
+               x="210.65338"
+               sodipodi:role="line"
+               id="tspan991-2">Effacer pour obtenir des Succès supplémentaires.</tspan><tspan
+               style="font-style:italic;font-size:17.5px;text-align:center;text-anchor:middle;stroke-width:0.93749994"
+               y="616.84808"
+               x="210.65338"
+               sodipodi:role="line"
+               id="tspan5671">______________  ______________  ______________</tspan><tspan
+               style="font-style:italic;font-size:17.5px;text-align:center;text-anchor:middle;stroke-width:0.93749994"
+               y="638.72308"
+               x="210.65338"
+               sodipodi:role="line"
+               id="tspan5675">______________  ______________  ______________</tspan><tspan
+               style="font-style:italic;font-size:17.5px;text-align:center;text-anchor:middle;stroke-width:0.93749994"
+               y="660.59808"
+               x="210.65338"
+               sodipodi:role="line"
+               id="tspan5679">______________  ______________  ______________</tspan></text>
+          <g
+             transform="translate(2.2827099,7.4999996)"
+             id="g6135-8">
+            <rect
+               id="rect5316-8"
+               width="410.569"
+               height="95.362381"
+               x="3.2317319"
+               y="572.66541"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:1.24999996, 4.99999986;stroke-dashoffset:0;stroke-opacity:1" />
+            <rect
+               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84869879;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect6129-6"
+               width="98.750771"
+               height="20.59037"
+               x="-4.7888336"
+               y="560.73175" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+               x="42.935226"
+               y="578.46802"
+               id="text5115-2-6-95"><tspan
+                 sodipodi:role="line"
+                 x="42.935226"
+                 y="578.46802"
+                 style="font-style:normal;font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.93749994"
+                 id="tspan5117-6-8-8">Mots-clés</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g6329-6-9"
+           transform="translate(0.14835237,-144.9971)">
+          <text
+             id="text6266-8-7"
+             y="598.16888"
+             x="211.26463"
+             style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+             xml:space="preserve"><tspan
+               style="font-style:italic;font-size:8.75px;text-align:center;text-anchor:middle;stroke-width:0.93749994"
+               y="598.16888"
+               x="211.26463"
+               sodipodi:role="line"
+               id="tspan991-2-59">Peut donner un Succès supplémentaire. Détailée sur l'autre page.</tspan></text>
+          <g
+             transform="translate(2.2827099,7.4999996)"
+             id="g6135-8-3">
+            <rect
+               id="rect5316-8-7"
+               width="411.17352"
+               height="49.188519"
+               x="2.9294622"
+               y="572.37512"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:1.25, 5.00000001;stroke-dashoffset:0;stroke-opacity:1" />
+            <rect
+               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84869879;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect6129-6-6"
+               width="98.750771"
+               height="20.59037"
+               x="-4.7888336"
+               y="560.73175" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+               x="42.935226"
+               y="578.46802"
+               id="text5115-2-6-95-82"><tspan
+                 sodipodi:role="line"
+                 x="42.935226"
+                 y="578.46802"
+                 style="font-style:normal;font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.93749994"
+                 id="tspan5117-6-8-8-1">Signature</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g5795"
+           transform="translate(-2.6366706,73.439262)">
+          <g
+             transform="translate(3.026602,-25.380345)"
+             id="g6329-6-4">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:8.75px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+               x="211.02306"
+               y="598.16888"
+               id="text6266-8-4"><tspan
+                 id="tspan991-2-5"
+                 sodipodi:role="line"
+                 x="211.02306"
+                 y="598.16888"
+                 style="font-style:italic;font-size:8.75px;text-align:center;text-anchor:middle;stroke-width:0.93749994">Donnent des dés supplémentaires. Effacer pour réussir de façon dramatique (+1 Chance).</tspan></text>
+            <g
+               id="g6135-8-1"
+               transform="translate(2.2827099,7.4999996)">
+              <rect
+                 style="opacity:1;fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:1.25, 5.00000001;stroke-dashoffset:0;stroke-opacity:1"
+                 y="572.95703"
+                 x="3.5353606"
+                 height="179.4209"
+                 width="409.96173"
+                 id="rect5316-8-1" />
+              <rect
+                 y="560.73175"
+                 x="-4.7888336"
+                 height="20.59037"
+                 width="98.750771"
+                 id="rect6129-6-9"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84869879;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+              <text
+                 id="text5115-2-6-95-8"
+                 y="578.46802"
+                 x="42.935226"
+                 style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+                 xml:space="preserve"><tspan
+                   id="tspan5117-6-8-8-9"
+                   style="font-style:normal;font-size:20px;text-align:center;text-anchor:middle;stroke-width:0.93749994"
+                   y="578.46802"
+                   x="42.935226"
+                   sodipodi:role="line">Bénéfices</tspan></text>
+            </g>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+             x="20.570349"
+             y="589.73578"
+             id="text6266-8-4-6"><tspan
+               id="tspan991-2-5-6"
+               sodipodi:role="line"
+               x="20.570349"
+               y="589.73578"
+               style="font-style:italic;font-size:12.5px;stroke-width:0.93749994">Mot-clé</tspan><tspan
+               id="tspan5725"
+               sodipodi:role="line"
+               x="20.570349"
+               y="611.15424"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_____________</tspan><tspan
+               id="tspan5727"
+               sodipodi:role="line"
+               x="20.570349"
+               y="633.02924"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_____________</tspan><tspan
+               id="tspan5729"
+               sodipodi:role="line"
+               x="20.570349"
+               y="654.90424"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_____________</tspan><tspan
+               id="tspan5731"
+               sodipodi:role="line"
+               x="20.570349"
+               y="676.77924"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_____________</tspan><tspan
+               id="tspan5763"
+               sodipodi:role="line"
+               x="20.570349"
+               y="698.65424"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_____________</tspan><tspan
+               sodipodi:role="line"
+               x="20.570349"
+               y="720.52924"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994"
+               id="tspan5799">_____________</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994"
+             x="139.1055"
+             y="589.73578"
+             id="text6266-8-4-6-2"><tspan
+               id="tspan991-2-5-6-4"
+               sodipodi:role="line"
+               x="139.1055"
+               y="589.73578"
+               style="font-style:italic;font-size:12.5px;stroke-width:0.93749994">Description</tspan><tspan
+               id="tspan5725-6"
+               sodipodi:role="line"
+               x="139.1055"
+               y="611.15424"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_______________________________</tspan><tspan
+               id="tspan5727-9"
+               sodipodi:role="line"
+               x="139.1055"
+               y="633.02924"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_______________________________</tspan><tspan
+               id="tspan5729-9"
+               sodipodi:role="line"
+               x="139.1055"
+               y="654.90424"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_______________________________</tspan><tspan
+               id="tspan5731-0"
+               sodipodi:role="line"
+               x="139.1055"
+               y="676.77924"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_______________________________</tspan><tspan
+               id="tspan5765"
+               sodipodi:role="line"
+               x="139.1055"
+               y="698.65424"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994">_______________________________</tspan><tspan
+               sodipodi:role="line"
+               x="139.1055"
+               y="720.52924"
+               style="font-style:italic;font-size:17.5px;stroke-width:0.93749994"
+               id="tspan5797">_______________________________</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

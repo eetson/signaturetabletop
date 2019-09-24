@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 990 764.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Signature-Personnage.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5452"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5454" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4712"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5332"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5334" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5188"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5190" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5136"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5138" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4688"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4682"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4688-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0156863"
+     inkscape:cx="495"
+     inkscape:cy="382.5"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     units="in" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-287.36221)">
+    <g
+       id="g5822">
+      <g
+         transform="matrix(0.65809261,0,0,0.65809261,19.614171,290.2113)"
+         id="g4295">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="27.108551"
+           y="597.71497"
+           id="text4233"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4235"
+             x="27.108551"
+             y="597.71497"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Tests : deux dés à 6 faces, choisir le meilleur résultat.</tspan><tspan
+             id="tspan5944"
+             sodipodi:role="line"
+             x="27.108551"
+             y="623.83209"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Des Bénéfices et Signatures peuvent être épuisés pour</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="649.94928"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan6220">s'additionner au résultat (+1 chaque).</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="676.06641"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan6224">Un modificateur pertinent peut être ajouté au résultat.</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="702.18353"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4285">SUCCÈS si le résultat dépasse une difficulté de 1 à 10.</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="728.30072"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4251" /><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="754.41785"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4253">Les points de Chance sont obtenus lorsque le maître de jeu</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="780.53497"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4255">intervient. Ils peuvent être dépensés des façons suivantes:</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="806.65216"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4257">1 chance : relancer les dés (accepter le dernier résultat).</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="832.76929"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4259">1 chance : refuser une intervention du maître de jeu.</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="858.88641"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4261">1 chance : utiliser un Bénéfice ou Signature sans l'épuiser.</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="885.0036"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan6210">2 chance : guérir une Blessure</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="911.12073"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4263">4 chance : améliorer un Bénéfice (devient une Signature).</tspan><tspan
+             id="tspan4420"
+             sodipodi:role="line"
+             x="27.108551"
+             y="937.23785"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">4 chance : gagner 1 point de modificateur</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="963.35498"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4277" /><tspan
+             id="tspan4346"
+             sodipodi:role="line"
+             x="27.108551"
+             y="989.47217"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Les Bénéfices et les Signatures sont utiles en tout temps </tspan><tspan
+             id="tspan5812"
+             sodipodi:role="line"
+             x="27.108551"
+             y="1015.5893"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">(un manteau protège toujours du froid) mais s'ajoutent à</tspan><tspan
+             id="tspan5950"
+             sodipodi:role="line"
+             x="27.108551"
+             y="1041.7064"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">un résultat de test (+1) seulement lorsqu'épuisés.</tspan><tspan
+             sodipodi:role="line"
+             x="27.108551"
+             y="1067.8236"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+             id="tspan4281">Sacrifier une Signature l'efface pour toujours mais permet </tspan><tspan
+             id="tspan4364"
+             sodipodi:role="line"
+             x="27.108551"
+             y="1093.9408"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.89371681px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">d'éviter la mort ou de réussir un test de façon dramatique.</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="445.78415"
+         y="898.29004"
+         id="text4422"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4424"
+           x="445.78415"
+           y="898.29004" /></text>
+      <g
+         id="g5234"
+         transform="translate(-581.29758,9.6881475)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:23.03324127px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1318.5884"
+           y="339.27771"
+           id="text4194-0-4"
+           sodipodi:linespacing="125%"><tspan
+             style="font-size:30px"
+             id="tspan4265-5-7"
+             sodipodi:role="line"
+             x="1318.5884"
+             y="339.27771">SIGNATURE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:23.03324127px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1094.3654"
+           y="366.33896"
+           id="text4158-0-2"
+           sodipodi:linespacing="125%"><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="366.33896"
+             id="tspan4180-4-5">Personnage ______________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="388.21396"
+             id="tspan5383">Joué par ___________________</tspan><tspan
+             id="tspan5119"
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="410.08896" /><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="431.96396"
+             id="tspan6423">Apparence</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="453.83896"
+             id="tspan6778">_____________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="475.71396"
+             id="tspan6780">_____________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="497.58896"
+             id="tspan6782">_____________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="519.46399"
+             id="tspan6784">_____________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="541.33899"
+             id="tspan6786" /><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="563.21399"
+             id="tspan6788">Origine</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="585.08899"
+             id="tspan6804">_____________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="606.96399"
+             id="tspan6822">_____________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="628.83899"
+             id="tspan6810">_____________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="650.71399"
+             id="tspan6818">_____________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="672.58899"
+             id="tspan6812" /><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="694.46399"
+             id="tspan6443">Notes </tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="716.33899"
+             id="tspan6459">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="738.21399"
+             id="tspan6461">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="760.08899"
+             id="tspan6463">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="781.96399"
+             id="tspan6465">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="803.83899"
+             id="tspan6467">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="825.71399"
+             id="tspan6469">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="847.58899"
+             id="tspan6471">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="869.46399"
+             id="tspan6473">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="891.33899"
+             id="tspan6475">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="913.21399"
+             id="tspan6477">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="935.08899"
+             id="tspan6479">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="956.96399"
+             id="tspan6481">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="978.83899"
+             id="tspan6483">________________________________________</tspan><tspan
+             style="font-size:17.5px;text-align:start;text-anchor:start"
+             sodipodi:role="line"
+             x="1094.3654"
+             y="1000.714"
+             id="tspan6489">________________________________________</tspan></text>
+      </g>
+      <g
+         id="g5655"
+         transform="translate(-484.55521,-390.51095)">
+        <g
+           id="g5397-2"
+           transform="matrix(0.65809261,0,0,0.65809261,497.06187,694.00283)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text4146-6"
+             y="105.68842"
+             x="186.77438"
+             style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-size:26.59200287px"
+               id="tspan4156-4"
+               y="105.68842"
+               x="186.77438"
+               sodipodi:role="line" /></text>
+        </g>
+        <g
+           id="g6142">
+          <g
+             transform="matrix(0.65809261,0,0,0.65809261,715.68522,681.84107)"
+             id="g4211-8">
+            <text
+               sodipodi:linespacing="125%"
+               id="text4136-3"
+               y="119.14775"
+               x="47.206493"
+               style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-size:22.79314423px"
+                 id="tspan4140-1"
+                 y="119.14775"
+                 x="47.206493"
+                 sodipodi:role="line">*_____________________</tspan><tspan
+                 style="font-size:22.79314423px"
+                 id="tspan4142-8"
+                 y="147.63918"
+                 x="47.206493"
+                 sodipodi:role="line">*_____________________</tspan><tspan
+                 style="font-size:22.79314423px"
+                 id="tspan4144-7"
+                 y="176.13062"
+                 x="47.206493"
+                 sodipodi:role="line">*_____________________</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text4190-2"
+               y="73.51976"
+               x="210.93112"
+               style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-size:26.59200287px"
+                 y="73.51976"
+                 x="210.93112"
+                 id="tspan4192-7"
+                 sodipodi:role="line">SIGNATURES</tspan><tspan
+                 y="93.011032"
+                 x="210.93112"
+                 sodipodi:role="line"
+                 id="tspan4267-8"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.29600143px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Passer son tour pour recharger</tspan></text>
+          </g>
+          <g
+             id="g4219-5"
+             transform="matrix(0.65809261,0,0,0.65809261,486.1345,782.04035)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text4158-6"
+               y="112.74551"
+               x="554.89734"
+               style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 id="tspan4344"
+                 style="font-size:22.79314423px;text-align:center;text-anchor:middle"
+                 y="112.74551"
+                 x="554.89734"
+                 sodipodi:role="line">-_____________________</tspan><tspan
+                 id="tspan4347"
+                 style="font-size:22.79314423px;text-align:center;text-anchor:middle"
+                 y="141.23694"
+                 x="554.89734"
+                 sodipodi:role="line">-_____________________</tspan><tspan
+                 id="tspan4414"
+                 style="font-size:22.79314423px;text-align:center;text-anchor:middle"
+                 y="169.72836"
+                 x="554.89734"
+                 sodipodi:role="line">-_____________________</tspan><tspan
+                 id="tspan4649"
+                 style="font-size:22.79314423px;text-align:center;text-anchor:middle"
+                 y="198.2198"
+                 x="554.89734"
+                 sodipodi:role="line">-_____________________</tspan><tspan
+                 id="tspan4651"
+                 style="font-size:22.79314423px;text-align:center;text-anchor:middle"
+                 y="226.71123"
+                 x="554.89734"
+                 sodipodi:role="line">-_____________________</tspan><tspan
+                 id="tspan4653"
+                 style="font-size:22.79314423px;text-align:center;text-anchor:middle"
+                 y="255.20265"
+                 x="554.89734"
+                 sodipodi:role="line">-_____________________</tspan><tspan
+                 id="tspan4655"
+                 style="font-size:22.79314423px;text-align:center;text-anchor:middle"
+                 y="283.69409"
+                 x="554.89734"
+                 sodipodi:role="line">-_____________________</tspan><tspan
+                 id="tspan4657"
+                 style="font-size:22.79314423px;text-align:center;text-anchor:middle"
+                 y="312.18552"
+                 x="554.89734"
+                 sodipodi:role="line">-_____________________</tspan><tspan
+                 id="tspan4659"
+                 style="font-size:22.79314423px;text-align:center;text-anchor:middle"
+                 y="340.67694"
+                 x="554.89734"
+                 sodipodi:role="line">-_____________________</tspan><tspan
+                 id="tspan6208"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.29600143px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle"
+                 y="359.34787"
+                 x="554.89734"
+                 sodipodi:role="line">4 chance = transformer en Signature</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text4194-1"
+               y="67.748375"
+               x="556.25513"
+               style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-size:26.59200287px"
+                 y="67.748375"
+                 x="556.25513"
+                 id="tspan4196-5"
+                 sodipodi:role="line">BÉNÉFICES</tspan><tspan
+                 y="87.239647"
+                 x="556.25513"
+                 sodipodi:role="line"
+                 id="tspan4265-4"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.29600143px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Utilisables une seule fois</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:23.03324127px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="619.9718"
+             y="730.22388"
+             id="text4198-0"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan4200-5"
+               x="619.9718"
+               y="730.22388"
+               style="font-size:17.5px;text-align:center;text-anchor:middle">CHANCE</tspan><tspan
+               sodipodi:role="line"
+               x="619.9718"
+               y="746.92865"
+               style="font-size:12.5px;text-align:center;text-anchor:middle"
+               id="tspan4305">[1] [2] [3] [4]</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:23.03324127px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="619.61536"
+             y="777.53772"
+             id="text4198-0-0"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan4200-5-4"
+               x="619.61536"
+               y="777.53772"
+               style="font-size:17.5px;text-align:center;text-anchor:middle">BLESSURES</tspan><tspan
+               sodipodi:role="line"
+               x="619.61536"
+               y="794.24249"
+               style="font-size:12.5px;text-align:center;text-anchor:middle"
+               id="tspan4305-7">[-1] [-2] [-3]</tspan><tspan
+               id="tspan6206"
+               sodipodi:role="line"
+               x="619.61536"
+               y="805.98981"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle">2 chance = guérir 1 blessure</tspan></text>
+          <g
+             transform="translate(0,-12.337429)"
+             id="g5591">
+            <g
+               transform="matrix(0.65809261,0,0,0.65809261,497.06187,687.13905)"
+               id="g5562">
+              <g
+                 transform="translate(-1.3661551,15.781186)"
+                 id="g4599">
+                <g
+                   transform="translate(-368.59612,230.41683)"
+                   id="g4219-5-9">
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     x="399.63388"
+                     y="49.248772"
+                     id="text4158-6-9"
+                     sodipodi:linespacing="125%"><tspan
+                       sodipodi:role="line"
+                       x="399.63388"
+                       y="49.248772"
+                       style="font-size:22.79314423px;text-align:start;text-anchor:start"
+                       id="tspan6026">___________________ +3</tspan><tspan
+                       sodipodi:role="line"
+                       x="399.63388"
+                       y="77.740204"
+                       style="font-size:22.79314423px;text-align:start;text-anchor:start"
+                       id="tspan4404">___________________ +2</tspan><tspan
+                       id="tspan4663"
+                       sodipodi:role="line"
+                       x="399.63388"
+                       y="106.23163"
+                       style="font-size:22.79314423px;text-align:start;text-anchor:start">___________________ +2</tspan><tspan
+                       id="tspan4665"
+                       sodipodi:role="line"
+                       x="399.63388"
+                       y="134.72307"
+                       style="font-size:22.79314423px;text-align:start;text-anchor:start">___________________ +1</tspan><tspan
+                       id="tspan4667"
+                       sodipodi:role="line"
+                       x="399.63388"
+                       y="163.21449"
+                       style="font-size:22.79314423px;text-align:start;text-anchor:start">___________________ +1</tspan><tspan
+                       id="tspan4669"
+                       sodipodi:role="line"
+                       x="399.63388"
+                       y="191.70592"
+                       style="font-size:22.79314423px;text-align:start;text-anchor:start">___________________ +1</tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     x="556.25513"
+                     y="-1.1775802"
+                     id="text4194-1-1"
+                     sodipodi:linespacing="125%"><tspan
+                       style="font-size:26.59200287px"
+                       id="tspan4265-4-6"
+                       sodipodi:role="line"
+                       x="556.25513"
+                       y="-1.1775802">MODIFICATEURS</tspan><tspan
+                       id="tspan4671"
+                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.29600143px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+                       sodipodi:role="line"
+                       x="556.25513"
+                       y="18.313696">S'ajoutent au résultat lorsque pertinent</tspan></text>
+                </g>
+                <g
+                   id="g4584"
+                   transform="matrix(1.0474182,0,0,1.0474182,-2.0250834,-15.75808)" />
+              </g>
+            </g>
+            <g
+               id="g5545"
+               transform="translate(6.7416038e-6,-3.2373187)">
+              <g
+                 id="g4563"
+                 transform="matrix(0.7193402,0,0,0.7193402,489.05465,679.95278)">
+                <rect
+                   style="opacity:0.075;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                   id="rect4479-9"
+                   width="289.47296"
+                   height="39.814846"
+                   x="37.134804"
+                   y="437.86777" />
+                <rect
+                   style="opacity:0.075;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                   id="rect4479-1"
+                   width="147.6266"
+                   height="39.814846"
+                   x="37.134804"
+                   y="437.86777" />
+                <rect
+                   style="opacity:0.075;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                   id="rect4479"
+                   width="46.434212"
+                   height="39.814846"
+                   x="37.134804"
+                   y="437.86777" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:15.1954298px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   x="122.34883"
+                   y="473.72794"
+                   id="text4523"
+                   sodipodi:linespacing="125%"><tspan
+                     sodipodi:role="line"
+                     id="tspan4525"
+                     x="122.34883"
+                     y="473.72794">+2</tspan></text>
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:15.1954298px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   x="46.889229"
+                   y="473.72794"
+                   id="text4523-1"
+                   sodipodi:linespacing="125%"><tspan
+                     sodipodi:role="line"
+                     id="tspan4525-3"
+                     x="46.889229"
+                     y="473.72794">+1</tspan></text>
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:15.1954298px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   x="244.67204"
+                   y="473.72794"
+                   id="text4523-0"
+                   sodipodi:linespacing="125%"><tspan
+                     sodipodi:role="line"
+                     id="tspan4525-1"
+                     x="244.67204"
+                     y="473.72794">+3</tspan></text>
+              </g>
+              <g
+                 id="g4219-5-9-5"
+                 transform="matrix(0.68929818,0,0,0.68929818,236.46145,1042.5565)">
+                <text
+                   sodipodi:linespacing="125%"
+                   id="text4194-1-1-1"
+                   y="-53.543701"
+                   x="557.13434"
+                   style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   xml:space="preserve"><tspan
+                     y="-53.543701"
+                     x="557.13434"
+                     sodipodi:role="line"
+                     id="tspan4265-4-6-6"
+                     style="font-size:15.1954298px;text-align:center;text-anchor:middle">[ ] [ ]  [ ] [ ] [ ] [ ]  [ ] [ ] [ ] [ ] [ ] [ ]</tspan><tspan
+                     y="-29.635199"
+                     x="560.64081"
+                     sodipodi:role="line"
+                     style="font-size:19.94782639px;text-align:center;text-anchor:middle"
+                     id="tspan6104"> </tspan><tspan
+                     y="-12.20116"
+                     x="557.13434"
+                     sodipodi:role="line"
+                     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69407082px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle"
+                     id="tspan6112">4 chance = 1 point</tspan><tspan
+                     y="3.6664279"
+                     x="557.13434"
+                     sodipodi:role="line"
+                     style="font-size:15.1954298px;text-align:center;text-anchor:middle"
+                     id="tspan6110" /></text>
+              </g>
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4673"
+                 d="m 544.40441,1016.7374 20,0"
+                 style="opacity:0.75;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4673-5"
+                 d="m 603.09955,1016.7496 45.33654,0"
+                 style="opacity:0.75;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5452)" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="309.12106"
+         y="752.11346"
+         id="text6212"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="309.12106"
+           y="752.11346"
+           id="tspan6216" /></text>
+    </g>
+  </g>
+</svg>
